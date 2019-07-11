@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/janekkaraczun/my-youtube/static/js/main.18de78dd.chunk.js",
+    "main.js.map": "/janekkaraczun/my-youtube/static/js/main.18de78dd.chunk.js.map",
+    "runtime~main.js": "/janekkaraczun/my-youtube/static/js/runtime~main.d25c4bac.js",
+    "runtime~main.js.map": "/janekkaraczun/my-youtube/static/js/runtime~main.d25c4bac.js.map",
+    "static/js/2.f8f0dca0.chunk.js": "/janekkaraczun/my-youtube/static/js/2.f8f0dca0.chunk.js",
+    "static/js/2.f8f0dca0.chunk.js.map": "/janekkaraczun/my-youtube/static/js/2.f8f0dca0.chunk.js.map",
+    "index.html": "/janekkaraczun/my-youtube/index.html",
+    "precache-manifest.bafa7677aa8d0064a439219a0673e0b6.js": "/janekkaraczun/my-youtube/precache-manifest.bafa7677aa8d0064a439219a0673e0b6.js",
+    "service-worker.js": "/janekkaraczun/my-youtube/service-worker.js"
+  }
+}
